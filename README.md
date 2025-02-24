@@ -24,6 +24,12 @@ npm install -g rest-api-generator-cli
 rest-api-generator --name my-api --auth --database mongodb
 ```
 
+#### Or
+
+```bash
+npx rest-api-generator-cli --name my-api --auth --database mongodb
+```
+
 ### Options
 
 - `-n, --name <name>` - Project name (required)
